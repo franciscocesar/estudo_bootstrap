@@ -1,11 +1,43 @@
 .navbar{
-    background-color: rgb(255, 199, 16);
+    background-color: rgb(238, 119, 8);
     padding: 2px;
 }
 .quem-somos{
-    background-color: rgb(41, 40, 40);
+    background-color: rgb(56, 55, 55);
 }
 
 .margin{
     padding-top: 50px;
+    padding-bottom: 40px;
+}
+.text_s{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    font-style: italic;
+    ;
+}
+.text_p{
+    color: white;
+}
+.parceiros{
+    background-color: rgb(29, 29, 29);
+}
+.text_q{
+    color: white;
+}
+.serviços{
+    background-color: rgb(14, 14, 14);
+}
+.text_l{
+    color: white;
+}
+.text_z{
+    color: white;
+}
+.navbar2{
+    color: white;
+}
+.bg-footer{
+    background-color: black;
+    color: white;
 }
